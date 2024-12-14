@@ -1,4 +1,4 @@
-# CSE597finalproject - Reproducing MeaCap_ToT for zero-shot image captioning tasks
+# Reproducing MeaCap_ToT for zero-shot image captioning tasks
 
 ## Test and Evaluate
 We mainly evaluated the accuracy of the generated captions on MSCOCO Karpathy-test split and NoCaps validations set using CIDEr score, and the specific code and files are in evaluation branch, which includes a README to explain the evaluation process.
