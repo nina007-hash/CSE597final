@@ -1,0 +1,233 @@
+2024-12-13 01:01:50,295 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 01:01:50,295 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='1', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 01:01:50,296 -  INFO: Use 1 gpus to train the model.
+2024-12-13 01:04:07,516 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 01:11:28,604 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 01:11:28,604 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 01:11:28,604 -  INFO: Use 1 gpus to train the model.
+2024-12-13 01:11:41,435 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 01:16:03,517 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 01:16:03,517 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 01:16:03,517 -  INFO: Use 1 gpus to train the model.
+2024-12-13 01:16:16,080 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 01:17:12,735 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 01:17:12,735 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 01:17:12,736 -  INFO: Use 1 gpus to train the model.
+2024-12-13 01:17:25,593 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 01:17:57,303 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 01:17:57,303 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 01:17:57,303 -  INFO: Use 1 gpus to train the model.
+2024-12-13 01:18:10,055 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 01:41:52,553 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 01:41:52,553 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 01:41:52,553 -  INFO: Use 1 gpus to train the model.
+2024-12-13 01:42:08,906 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 01:43:55,332 -  INFO: The size of the train set is 1204810.
+2024-12-13 01:44:00,957 -  INFO: The size of the dev set is 70210.
+2024-12-13 01:45:13,439 -  INFO: 
+   dev set, ave loss 4.004, encoder loss 1.087, decoder loss 2.917, mask decoder loss 8.489, uses 72.5 seconds.
+      Label_0: Precision=0.874,  Recall=0.570, F1:0.690;
+      Label_1: Precision=0.058,  Recall=0.254, F1:0.095;
+      Label_2: Precision=0.302,  Recall=0.424, F1:0.353;
+      Macro_P=0.412,  Macro_R=0.416, Macro_F1=0.379.
+2024-12-13 02:16:56,018 -  INFO: 
+   Dev set, ave loss 0.685, encoder loss 0.111, decoder loss 0.574, mask decoder loss 2.430, uses 65.0 seconds.
+      Label_0: Precision=0.969,  Recall=0.990, F1:0.979;
+      Label_1: Precision=0.973,  Recall=0.977, F1:0.975;
+      Label_2: Precision=0.951,  Recall=0.854, F1:0.900;
+      Macro_P=0.964,  Macro_R=0.940, Macro_F1=0.951.
+2024-12-13 02:16:56,019 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 02:48:46,375 -  INFO: 
+   Dev set, ave loss 0.648, encoder loss 0.099, decoder loss 0.549, mask decoder loss 2.314, uses 65.3 seconds.
+      Label_0: Precision=0.974,  Recall=0.988, F1:0.981;
+      Label_1: Precision=0.976,  Recall=0.984, F1:0.980;
+      Label_2: Precision=0.946,  Recall=0.878, F1:0.911;
+      Macro_P=0.965,  Macro_R=0.950, Macro_F1=0.957.
+2024-12-13 02:48:46,375 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 03:20:36,228 -  INFO: 
+   Dev set, ave loss 0.633, encoder loss 0.095, decoder loss 0.538, mask decoder loss 2.269, uses 65.1 seconds.
+      Label_0: Precision=0.973,  Recall=0.990, F1:0.982;
+      Label_1: Precision=0.987,  Recall=0.979, F1:0.983;
+      Label_2: Precision=0.952,  Recall=0.877, F1:0.913;
+      Macro_P=0.971,  Macro_R=0.949, Macro_F1=0.959.
+2024-12-13 03:20:36,229 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 03:52:24,023 -  INFO: 
+   Dev set, ave loss 0.619, encoder loss 0.090, decoder loss 0.529, mask decoder loss 2.231, uses 65.1 seconds.
+      Label_0: Precision=0.978,  Recall=0.987, F1:0.982;
+      Label_1: Precision=0.982,  Recall=0.987, F1:0.985;
+      Label_2: Precision=0.941,  Recall=0.896, F1:0.918;
+      Macro_P=0.967,  Macro_R=0.957, Macro_F1=0.962.
+2024-12-13 03:52:24,024 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 04:24:11,296 -  INFO: 
+   Dev set, ave loss 0.616, encoder loss 0.090, decoder loss 0.527, mask decoder loss 2.216, uses 65.1 seconds.
+      Label_0: Precision=0.977,  Recall=0.988, F1:0.982;
+      Label_1: Precision=0.984,  Recall=0.982, F1:0.983;
+      Label_2: Precision=0.945,  Recall=0.893, F1:0.918;
+      Macro_P=0.968,  Macro_R=0.955, Macro_F1=0.961.
+2024-12-13 04:24:11,296 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 04:56:01,337 -  INFO: 
+   Dev set, ave loss 0.618, encoder loss 0.090, decoder loss 0.529, mask decoder loss 2.226, uses 65.1 seconds.
+      Label_0: Precision=0.976,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.989,  Recall=0.979, F1:0.984;
+      Label_2: Precision=0.947,  Recall=0.890, F1:0.918;
+      Macro_P=0.971,  Macro_R=0.953, Macro_F1=0.961.
+2024-12-13 05:27:46,590 -  INFO: 
+   Dev set, ave loss 0.608, encoder loss 0.087, decoder loss 0.521, mask decoder loss 2.192, uses 65.4 seconds.
+      Label_0: Precision=0.977,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.984,  Recall=0.988, F1:0.986;
+      Label_2: Precision=0.947,  Recall=0.895, F1:0.920;
+      Macro_P=0.970,  Macro_R=0.957, Macro_F1=0.963.
+2024-12-13 05:27:46,590 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 05:59:32,880 -  INFO: 
+   Dev set, ave loss 0.608, encoder loss 0.087, decoder loss 0.521, mask decoder loss 2.188, uses 65.2 seconds.
+      Label_0: Precision=0.977,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.989,  Recall=0.983, F1:0.986;
+      Label_2: Precision=0.948,  Recall=0.895, F1:0.921;
+      Macro_P=0.971,  Macro_R=0.956, Macro_F1=0.963.
+2024-12-13 05:59:32,880 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 06:31:19,684 -  INFO: 
+   Dev set, ave loss 0.604, encoder loss 0.086, decoder loss 0.518, mask decoder loss 2.176, uses 65.7 seconds.
+      Label_0: Precision=0.978,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.989,  Recall=0.984, F1:0.987;
+      Label_2: Precision=0.945,  Recall=0.900, F1:0.922;
+      Macro_P=0.971,  Macro_R=0.957, Macro_F1=0.964.
+2024-12-13 06:31:19,685 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 07:03:04,644 -  INFO: 
+   Dev set, ave loss 0.598, encoder loss 0.084, decoder loss 0.514, mask decoder loss 2.160, uses 65.1 seconds.
+      Label_0: Precision=0.978,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.988,  Recall=0.986, F1:0.987;
+      Label_2: Precision=0.947,  Recall=0.899, F1:0.922;
+      Macro_P=0.971,  Macro_R=0.958, Macro_F1=0.964.
+2024-12-13 07:03:04,644 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 08:43:24,446 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 08:43:24,446 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=8, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 08:43:24,447 -  INFO: Use 1 gpus to train the model.
+2024-12-13 08:43:39,979 -  INFO: Initialize the bart-large model with default parameters.
+2024-12-13 08:45:26,746 -  INFO: The size of the train set is 1204810.
+2024-12-13 08:45:32,309 -  INFO: The size of the dev set is 70210.
+2024-12-13 08:46:44,254 -  INFO: 
+   dev set, ave loss 4.007, encoder loss 1.090, decoder loss 2.917, mask decoder loss 8.489, uses 71.9 seconds.
+      Label_0: Precision=0.732,  Recall=0.525, F1:0.611;
+      Label_1: Precision=0.042,  Recall=0.227, F1:0.071;
+      Label_2: Precision=0.177,  Recall=0.129, F1:0.149;
+      Macro_P=0.317,  Macro_R=0.294, Macro_F1=0.277.
+2024-12-13 09:18:15,882 -  INFO: 
+   Dev set, ave loss 0.678, encoder loss 0.107, decoder loss 0.571, mask decoder loss 2.400, uses 65.3 seconds.
+      Label_0: Precision=0.973,  Recall=0.985, F1:0.979;
+      Label_1: Precision=0.966,  Recall=0.977, F1:0.971;
+      Label_2: Precision=0.932,  Recall=0.877, F1:0.904;
+      Macro_P=0.957,  Macro_R=0.946, Macro_F1=0.952.
+2024-12-13 09:18:15,883 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 09:49:46,908 -  INFO: 
+   Dev set, ave loss 0.648, encoder loss 0.098, decoder loss 0.550, mask decoder loss 2.306, uses 65.5 seconds.
+      Label_0: Precision=0.975,  Recall=0.987, F1:0.981;
+      Label_1: Precision=0.977,  Recall=0.982, F1:0.979;
+      Label_2: Precision=0.942,  Recall=0.883, F1:0.911;
+      Macro_P=0.964,  Macro_R=0.951, Macro_F1=0.957.
+2024-12-13 09:49:46,908 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 10:21:23,140 -  INFO: 
+   Dev set, ave loss 0.635, encoder loss 0.095, decoder loss 0.540, mask decoder loss 2.273, uses 65.2 seconds.
+      Label_0: Precision=0.974,  Recall=0.989, F1:0.982;
+      Label_1: Precision=0.980,  Recall=0.985, F1:0.982;
+      Label_2: Precision=0.951,  Recall=0.880, F1:0.914;
+      Macro_P=0.968,  Macro_R=0.951, Macro_F1=0.959.
+2024-12-13 10:21:23,141 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 10:53:02,061 -  INFO: 
+   Dev set, ave loss 0.626, encoder loss 0.094, decoder loss 0.532, mask decoder loss 2.249, uses 65.5 seconds.
+      Label_0: Precision=0.973,  Recall=0.991, F1:0.982;
+      Label_1: Precision=0.987,  Recall=0.982, F1:0.984;
+      Label_2: Precision=0.956,  Recall=0.875, F1:0.914;
+      Macro_P=0.972,  Macro_R=0.949, Macro_F1=0.960.
+2024-12-13 10:53:02,062 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 11:24:57,587 -  INFO: 
+   Dev set, ave loss 0.613, encoder loss 0.088, decoder loss 0.525, mask decoder loss 2.209, uses 65.1 seconds.
+      Label_0: Precision=0.977,  Recall=0.988, F1:0.983;
+      Label_1: Precision=0.983,  Recall=0.988, F1:0.985;
+      Label_2: Precision=0.945,  Recall=0.895, F1:0.920;
+      Macro_P=0.968,  Macro_R=0.957, Macro_F1=0.963.
+2024-12-13 11:24:57,588 -  INFO: Save the model at ../checkpoints/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 11:57:04,283 -  INFO: 
+   Dev set, ave loss 0.614, encoder loss 0.087, decoder loss 0.526, mask decoder loss 2.215, uses 65.4 seconds.
+      Label_0: Precision=0.977,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.989,  Recall=0.984, F1:0.986;
+      Label_2: Precision=0.948,  Recall=0.893, F1:0.920;
+      Macro_P=0.971,  Macro_R=0.955, Macro_F1=0.963.
+2024-12-13 12:07:58,989 -  INFO: The log file is ../logs/keyword_generate/cbart-large_Flickr30k_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.log
+2024-12-13 12:07:58,989 -  INFO: Namespace(bart='large', batch_size=25, dataset='Flickr30k', encoder_loss_type=0, epochs=2, full_mask=0, generate_mode=0, gpu='0', insert_mode=0, local_rank=-1, log_path='../logs/keyword_generate', lr=1e-05, masked_lm=0, model_path='../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0', n_gpu=1, num_labels=3, random_init=0, ratio1=0.5, ratio2=0.5, test_batch_size=100, train=1, w=1.0)
+2024-12-13 12:07:58,990 -  INFO: Use 1 gpus to train the model.
+2024-12-13 12:08:10,963 -  INFO: Initialize BartForTextInfill from checkpoint ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0.
+2024-12-13 12:10:04,355 -  INFO: The size of the train set is 1204810.
+2024-12-13 12:10:09,981 -  INFO: The size of the dev set is 70210.
+2024-12-13 12:11:22,909 -  INFO: 
+   dev set, ave loss 1.006, encoder loss 0.140, decoder loss 0.865, mask decoder loss 3.436, uses 72.9 seconds.
+      Label_0: Precision=0.977,  Recall=0.972, F1:0.974;
+      Label_1: Precision=0.966,  Recall=0.955, F1:0.960;
+      Label_2: Precision=0.875,  Recall=0.899, F1:0.887;
+      Macro_P=0.939,  Macro_R=0.942, Macro_F1=0.941.
+2024-12-13 12:42:25,763 -  INFO: 
+   Dev set, ave loss 0.619, encoder loss 0.086, decoder loss 0.533, mask decoder loss 2.244, uses 64.9 seconds.
+      Label_0: Precision=0.979,  Recall=0.987, F1:0.983;
+      Label_1: Precision=0.988,  Recall=0.986, F1:0.987;
+      Label_2: Precision=0.939,  Recall=0.901, F1:0.920;
+      Macro_P=0.968,  Macro_R=0.958, Macro_F1=0.963.
+2024-12-13 12:42:25,763 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 13:13:34,825 -  INFO: 
+   Dev set, ave loss 0.609, encoder loss 0.084, decoder loss 0.525, mask decoder loss 2.206, uses 65.0 seconds.
+      Label_0: Precision=0.978,  Recall=0.989, F1:0.983;
+      Label_1: Precision=0.988,  Recall=0.988, F1:0.988;
+      Label_2: Precision=0.947,  Recall=0.899, F1:0.922;
+      Macro_P=0.971,  Macro_R=0.958, Macro_F1=0.964.
+2024-12-13 13:13:34,825 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 13:44:40,801 -  INFO: 
+   Dev set, ave loss 0.599, encoder loss 0.083, decoder loss 0.516, mask decoder loss 2.162, uses 65.1 seconds.
+      Label_0: Precision=0.979,  Recall=0.989, F1:0.984;
+      Label_1: Precision=0.990,  Recall=0.986, F1:0.988;
+      Label_2: Precision=0.945,  Recall=0.902, F1:0.923;
+      Macro_P=0.971,  Macro_R=0.959, Macro_F1=0.965.
+2024-12-13 13:44:40,801 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 14:15:49,360 -  INFO: 
+   Dev set, ave loss 0.594, encoder loss 0.082, decoder loss 0.512, mask decoder loss 2.149, uses 64.9 seconds.
+      Label_0: Precision=0.979,  Recall=0.989, F1:0.984;
+      Label_1: Precision=0.989,  Recall=0.988, F1:0.988;
+      Label_2: Precision=0.948,  Recall=0.902, F1:0.925;
+      Macro_P=0.972,  Macro_R=0.960, Macro_F1=0.966.
+2024-12-13 14:15:49,361 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 14:46:56,884 -  INFO: 
+   Dev set, ave loss 0.591, encoder loss 0.081, decoder loss 0.510, mask decoder loss 2.134, uses 65.8 seconds.
+      Label_0: Precision=0.980,  Recall=0.987, F1:0.984;
+      Label_1: Precision=0.992,  Recall=0.985, F1:0.988;
+      Label_2: Precision=0.940,  Recall=0.911, F1:0.925;
+      Macro_P=0.971,  Macro_R=0.961, Macro_F1=0.966.
+2024-12-13 14:46:56,885 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 15:18:14,021 -  INFO: 
+   Dev set, ave loss 0.600, encoder loss 0.082, decoder loss 0.518, mask decoder loss 2.167, uses 65.8 seconds.
+      Label_0: Precision=0.980,  Recall=0.989, F1:0.984;
+      Label_1: Precision=0.991,  Recall=0.987, F1:0.989;
+      Label_2: Precision=0.945,  Recall=0.908, F1:0.926;
+      Macro_P=0.972,  Macro_R=0.961, Macro_F1=0.966.
+2024-12-13 15:49:34,192 -  INFO: 
+   Dev set, ave loss 0.596, encoder loss 0.081, decoder loss 0.514, mask decoder loss 2.159, uses 65.8 seconds.
+      Label_0: Precision=0.979,  Recall=0.989, F1:0.984;
+      Label_1: Precision=0.990,  Recall=0.987, F1:0.989;
+      Label_2: Precision=0.948,  Recall=0.904, F1:0.925;
+      Macro_P=0.973,  Macro_R=0.960, Macro_F1=0.966.
+2024-12-13 16:22:27,545 -  INFO: 
+   Dev set, ave loss 0.600, encoder loss 0.082, decoder loss 0.517, mask decoder loss 2.168, uses 65.0 seconds.
+      Label_0: Precision=0.979,  Recall=0.990, F1:0.984;
+      Label_1: Precision=0.990,  Recall=0.987, F1:0.989;
+      Label_2: Precision=0.950,  Recall=0.903, F1:0.926;
+      Macro_P=0.973,  Macro_R=0.960, Macro_F1=0.966.
+2024-12-13 16:53:31,931 -  INFO: 
+   Dev set, ave loss 0.585, encoder loss 0.079, decoder loss 0.506, mask decoder loss 2.112, uses 64.9 seconds.
+      Label_0: Precision=0.981,  Recall=0.988, F1:0.984;
+      Label_1: Precision=0.991,  Recall=0.988, F1:0.989;
+      Label_2: Precision=0.942,  Recall=0.914, F1:0.928;
+      Macro_P=0.971,  Macro_R=0.963, Macro_F1=0.967.
+2024-12-13 16:53:31,932 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
+2024-12-13 17:24:41,141 -  INFO: 
+   Dev set, ave loss 0.585, encoder loss 0.079, decoder loss 0.505, mask decoder loss 2.113, uses 64.9 seconds.
+      Label_0: Precision=0.981,  Recall=0.988, F1:0.985;
+      Label_1: Precision=0.991,  Recall=0.988, F1:0.989;
+      Label_2: Precision=0.945,  Recall=0.912, F1:0.928;
+      Macro_P=0.972,  Macro_R=0.963, Macro_F1=0.967.
+2024-12-13 17:24:41,142 -  INFO: Save the model at ../checkpoints-pretrained/cbart-large_one-billion-words_w1.0_max_insert_label1_insert_mode0_encoder_loss_type0
