@@ -37,23 +37,23 @@ Tips: prompts are needless.
 ### 4.1 test on nocaps datasets
 
 #### 4.1.1 CBART_COCO (in/out/near domain)
-python inference.py --gpu 0 --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/nocaps/val/in-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_COCO/in-domain
-python inference.py --gpu 1 --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/nocaps/val/out-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_COCO/out-domain
-python inference.py --gpu 1 --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/nocaps/val/near-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_COCO/near-domain
+python inference.py  --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/nocaps/val/in-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_COCO/in-domain
+python inference.py  --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/nocaps/val/out-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_COCO/out-domain
+python inference.py  --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/nocaps/val/near-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_COCO/near-domain
 
 #### 4.1.2 CBART_cc3m (in/out/near domain)
-python inference.py --gpu 0 --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/nocaps/val/in-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_cc3m/in-domain
-python inference.py --gpu 1 --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/nocaps/val/out-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_cc3m/out-domain
-python inference.py --gpu 0 --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/nocaps/val/near-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_cc3m/near-domain
+python inference.py --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/nocaps/val/in-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_cc3m/in-domain
+python inference.py --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/nocaps/val/out-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_cc3m/out-domain
+python inference.py --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/nocaps/val/near-domain --output_path ./DownloadDatasets/nocaps/outputs/CBART_cc3m/near-domain
 
 
 ### 4.2 test on COCO2014-test(karpathy-split) datasets
 
 #### 4.2.1 CBART_COCO
-python inference.py --gpu 1 --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/COCO2014/Karpathy-splitted-test --output_path ./DownloadDatasets/COCO2014/outputs/CBART_COCO
+python inference.py --memory_id coco --lm_model_path ./checkpoints/CBART_COCO --img_path ./DownloadDatasets/COCO2014/Karpathy-splitted-test --output_path ./DownloadDatasets/COCO2014/outputs/CBART_COCO
 
 #### 4.2.2 CBART_cc3m
-python inference.py --gpu 6 --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/COCO2014/Karpathy-splitted-test --output_path ./DownloadDatasets/COCO2014/outputs/CBART_cc3m
+python inference.py --memory_id cc3m --memory_caption_path data/memory/cc3m/memory_captions.json --lm_model_path ./checkpoints/CBART_cc3m --img_path ./DownloadDatasets/COCO2014/Karpathy-splitted-test --output_path ./DownloadDatasets/COCO2014/outputs/CBART_cc3m
 
 
 ## 5. Evalution
